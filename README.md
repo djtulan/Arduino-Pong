@@ -1,7 +1,7 @@
 Welcome to my little project Arduino Pong
 ==============
 
-There are already some versions of pong for Arduino but I was no version satisfing my needs.
+There are already some versions of pong for Arduino but no version was satisfing my needs.
 So I decided to do my own implemenation.
 
 
@@ -13,3 +13,10 @@ Requirements:
 - support for original Atari paddles
 - Video & Sound output for usual TV sets
 
+
+Setup Up and compile the project:
+--------------
+- First of all you would need to get the project "queezythegreat/arduino-cmake" on githhub.
+  I used it to set up the build environment out of the arduino IDE.
+  Best to clone the repository in parallel to Arduino Pong
+  
